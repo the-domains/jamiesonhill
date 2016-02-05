@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Jamieson Hill]]></title>
         <description><![CDATA[Jamieson Hill]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamiesonhill/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 09:04:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 09:10:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamiesonhill/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67670882-5c4d-4050-90a4-f19e9bb9f768.jpg">]]></description>
-            <link>undefined8477b410-81b9-4346-9431-04f1776c90bc/index.html</link>
+            <link>https://thegrid.ai/jamiesonhill/8477b410-81b9-4346-9431-04f1776c90bc/index.html</link>
             <guid isPermaLink="false">8477b410-81b9-4346-9431-04f1776c90bc</guid>
             <pubDate>Fri, 05 Feb 2016 09:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38b124e5-736c-4ffd-b17d-b09585198ea7.JPG">]]></description>
+            <link>https://thegrid.ai/jamiesonhill/4b93c357-7176-4cab-9515-c2da1a19aa0f/index.html</link>
+            <guid isPermaLink="false">4b93c357-7176-4cab-9515-c2da1a19aa0f</guid>
+            <pubDate>Fri, 05 Feb 2016 09:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

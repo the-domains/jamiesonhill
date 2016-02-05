@@ -1,0 +1,14 @@
+layout_spectrum: 0.1774193
+color:
+  saturation: 0.2386199
+  lightness: 0.6546959
+  brandStrength: 0.7849463
+  brandColors:
+    - '#BCAEAD'
+    - '#170E0C'
+    - '#877877'
+    - '#424B65'
+    - '#BD0D30'
+  rhythmicContrast: 0.5710464
+typography_spectrum: 0.9172902
+name: JamiesonHill

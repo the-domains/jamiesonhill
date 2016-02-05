@@ -1,14 +1,29 @@
-layout_spectrum: 0.1533575
+name: JamiesonHill
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.9172902
+title: Jamieson Hill
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2386199
-  lightness: 0.6546959
-  brandStrength: 0.7849463
   brandColors:
     - '#BCAEAD'
     - '#170E0C'
     - '#877877'
     - '#424B65'
     - '#BD0D30'
-  rhythmicContrast: 0.5710464
-name: JamiesonHill
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []

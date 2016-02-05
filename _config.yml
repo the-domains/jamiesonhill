@@ -1,6 +1,6 @@
 name: JamiesonHill
 favicon: null
-layout_spectrum: 0.1774193
+layout_spectrum: 1
 typography_spectrum: 0.9172902
 title: Jamieson Hill
 cta:
@@ -22,8 +22,8 @@ color:
     - '#877877'
     - '#424B65'
     - '#BD0D30'
-  brandStrength: 0.7849463
+  brandStrength: 0.5
   lightness: 0.6546959
-  saturation: 0.2386199
-  rhythmicContrast: 0.5710464
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
